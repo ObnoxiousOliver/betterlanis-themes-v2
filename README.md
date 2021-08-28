@@ -18,7 +18,7 @@ Der Name wird kleingeschiben und Wörter werden mit einem Minus getrennt.
 Alle Dateien die zum Thema gehören kommen in den Themenordner
 
 ```
-- my-theme.bl-theme
+  my-theme.bl-theme
   |- icon.png
   |- manifest.json
   |- css
@@ -38,7 +38,7 @@ Alle Informationen bezüglich des Themes ist in diesem enthalten. Das `manifest.
 | `authors`     | `Array[String]` | Zusätzliche Authoren vom Thema.                                                                     | `"authors": [ "Random Dude", "Another Random Dude" ]`        |
 | `description` | `String`        | Die Beschreibung vom Thema.                                                                         | `"description": "This is my Theme"`                          |
 | `css`         | `String`        | Der relative Pfad zur CSS-Datei.                                                                    | `"css": "css/main.css"`                                      |
-| `preview`     | `Object`        | Drei Vorschaufarben vom Thema. [Mehr info](#preview-eigenschaft)                                    | `"preview": { "1": "#43fa76", "2": "#57da35", "3": "#222" }` |
+| `preview`     | `Object`        | Drei Vorschaufarben vom Thema. [Mehr info](#preview---eigenschaft)                                    | `"preview": { "1": "#43fa76", "2": "#57da35", "3": "#222" }` |
 | `icon`        | `String`        | Der relative Pfad zur Bild-Datei für das Icon vom Thema.                                            | `"icon": "icon.png"`                                         |
 
 ### preview - Eigenschaft
