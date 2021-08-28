@@ -1,0 +1,6 @@
+#app-mount :not(.loader):not([class^="secret-"]):not([class*=" secret-"]),
+#app-mount :not(.loader):not([class^="secret-"]):not([class*=" secret-"])::before,
+#app-mount :not(.loader):not([class^="secret-"]):not([class*=" secret-"])::after {
+  transition: none;
+  animation: none;
+}

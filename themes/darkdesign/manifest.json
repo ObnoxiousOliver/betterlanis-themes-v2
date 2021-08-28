@@ -1,0 +1,12 @@
+{
+  "name": "Schwarzes Design",
+  "version": "1.0",
+  "author": "ObnoxiousOliver",
+  "description": "Ein sehr dunkles Design für Better LANiS",
+  "css": "css/index.css",
+  "preview": {
+    "1": "#060606",
+    "2": "#0f0f0f",
+    "3": "#000"
+  }
+}

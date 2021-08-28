@@ -1,0 +1,12 @@
+{
+  "name": "Deep Galaxy",
+  "version": "1.0",
+  "author": "Mikolaj Bajtkiewicz",
+  "description": "Dunkler Design mit etwas Galaxy!",
+  "css": "main.css",
+  "preview": {
+    "1": "#131c26",
+    "2": "#453799",
+    "3": "#0a111b"
+  }
+}

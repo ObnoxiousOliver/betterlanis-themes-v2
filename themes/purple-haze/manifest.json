@@ -1,0 +1,13 @@
+{
+  "name": "Purple Haze",
+  "version": "1.0",
+  "author": "ObnoxiousOliver",
+  "authors": [ "Just Fubuki" ],
+  "description": "Idee von Just Fubuki",
+  "css": "main.css",
+  "preview": {
+    "1": "#1d1036",
+    "2": "#3e1742",
+    "3": "#1a0729"
+  }
+}

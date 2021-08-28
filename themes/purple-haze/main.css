@@ -1,0 +1,32 @@
+:root {
+  --primary-background: #1d1036;
+  --secondary-background: #3e1742;
+  --tertiary-background: #1a0729;
+
+  --popup-background: #301c31;
+  --popup-foreground: #f4eef5;
+
+  --primary-foreground: #f4eef5;
+  --secondary-foreground: #ac97ac;
+  --muted-foreground: #816777;
+
+  --warning: #ffb858;
+  --warning-background: #150f05;
+  --warning-foreground: #000;
+
+  --error: #f35;
+  --error-background: #1a0004;
+  --error-foreground: #fff;
+
+  --button: #000;
+  --button-foreground: #f4eef5;
+  --button-highlight: #f4eef5;
+  --button-highlight-foreground: #000;
+
+  --scrollbar-track: #2b1336;
+  --scrollbar-thumb: #593366;
+
+  --elevation-high: #1036 0 5px 10px;
+  --elevation-medium: #1036 0 2px 5px;
+  --elevation-low: #1036 0 1px 2px;
+}
