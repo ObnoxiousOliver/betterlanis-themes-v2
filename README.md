@@ -33,7 +33,7 @@ Alle Informationen bezüglich des Themes ist in diesem enthalten. Das `manifest.
 | Eigenschaft   | Typ             | Bescheibung                                                                                         | Verwengung                                                   |
 | ------------- | --------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | `name`        | `String`        | Der Angzeigename vom Thema.                                                                         | `"name": "My Theme"`                                         |
-| `version`     | `String`        | Die Version vom Thema.<br>Der String muss von [SemVer](https://semver.org/) geparsed werden können. | `"version": "1.0"`                                           |
+| `version`     | `String`        | Die Version vom Thema.<br>Der String muss von [SemVer](https://semver.org/) geparsed werden können. | `"version": "1.0.0"`                                           |
 | `author`      | `String`        | Der Author vom Thema.                                                                               | `"author": "Oliver"`                                         |
 | `authors`     | `Array[String]` | Zusätzliche Authoren vom Thema.                                                                     | `"authors": [ "Random Dude", "Another Random Dude" ]`        |
 | `description` | `String`        | Die Beschreibung vom Thema.                                                                         | `"description": "This is my Theme"`                          |
@@ -54,7 +54,7 @@ Alle Informationen bezüglich des Themes ist in diesem enthalten. Das `manifest.
 ```json
 {
   "name": "My Theme",
-  "version": "1.0",
+  "version": "1.0.0",
   "author": "Oliver",
   "authors": [
     "Random Dude",
