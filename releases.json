@@ -1,4 +1,8 @@
 {
+  "folders": {
+    "themes": "themes",
+    "releases": "releases"
+  },
   "lightdesign": "lightdesign_v1.6.0.bl-theme.zip",
   "darkdesign": "darkdesign_v1.0.0.bl-theme.zip",
   "no-animations": "no-animations_v1.1.0.bl-theme.zip",
